@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe, I study Software Engineering at PUCRS, currently in the 4th semester. I love playing video games, reading fiction books and manga, and I do personal projects for fun and to practice more. Here, you will find some of them.</p>
+<p align="left">My name is Felipe, I study Software Engineering at PUCRS, currently in the 5th semester. I love playing video games, reading fiction books and manga, and I do personal projects for fun and to practice more. Here, you will find some of them.</p>
 
 ###
 
@@ -41,10 +41,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeBurg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeBurg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
